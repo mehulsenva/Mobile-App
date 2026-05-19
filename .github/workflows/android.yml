@@ -39,3 +39,5 @@ jobs:
         run: |
           cd android
           ./gradlew assembleRelease
+
+          
